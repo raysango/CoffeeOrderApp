@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="quantity">8dp</dimen>
+    <dimen name="digit_size">16sp</dimen>
+    <dimen name="left_top_margin">16dp</dimen>
+    <dimen name="checkbox">24dp</dimen>
+</resources>
